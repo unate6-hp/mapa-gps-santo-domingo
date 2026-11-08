@@ -1,0 +1,20 @@
+MAPA GPS — SANTO DOMINGO NORTE
+
+1. Abre Mapa_GPS_Santo_Domingo_Norte.html en Chrome o Edge.
+2. Pulsa "Seleccionar archivo" y carga:
+   SANTO DOMINGO NORTE NUEVO_28.dxf
+3. Pulsa "Activar GPS" y permite la ubicación.
+4. El punto 📍 muestra tu ubicación en tiempo real.
+
+DATOS DEL PLANO:
+- El DXF tiene coordenadas del orden UTM.
+- Por sus coordenadas y su ubicación en Santo Domingo, el plano es compatible con UTM WGS84 zona 19N (EPSG:32619).
+- El centro aproximado del dibujo es 18.597321, -70.086054.
+
+IMPORTANTE:
+Para que el GPS funcione en un teléfono, el navegador normalmente requiere un contexto seguro (HTTPS).
+La forma recomendada es publicar esta página en un servicio HTTPS (por ejemplo GitHub Pages).
+El archivo DXF se carga localmente en el navegador; no se sube automáticamente a ningún servidor.
+
+NOTA DE RENDIMIENTO:
+Este DXF contiene una cantidad muy grande de entidades LINE. En teléfonos modestos puede tardar en cargar.
